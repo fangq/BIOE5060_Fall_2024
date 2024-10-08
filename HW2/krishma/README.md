@@ -2,7 +2,7 @@ HW 02
 BIOE 5060
 
 # Description
-This file consists of all the resources used to modify Ubuntu 22.04 downloaded on a virtual machine (UTM).
+This file consists of all the resources used to modify Ubuntu 24.04 downloaded on a virtual machine (UTM).
 
 #Task bars/panels, change their layouts, colors, transparency
 Used "gsetting" commands on the ubuntu terminal to make changes to the position of the task bars, colors and transparency.
