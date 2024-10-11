@@ -32,9 +32,8 @@ Add Removable Drive Menu: drive-menu@gnome-shell-extensions.gcampax.github.com (
 
 Add Vitals: Vitals@CoreCoding.com (https://github.com/corecoding/Vitals) -- license type: GNU Genral Public License Version 2
 
-Add Tweaks Application
-
-Cursor: Skyrim-by-ru5tyshark-cursors
+Add Tweaks Application: (https://gitlab.gnome.org/GNOME/gnome-tweaks) -- license type:CC0-1.0 ; GPL- 3.0
+    Cursor: Skyrim-by-ru5tyshark-cursors
 Fonts (All from Tweaks)
   Interface text: Suravaram Bold Italic
   Document text: Peddana Italic
