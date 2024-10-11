@@ -22,3 +22,5 @@ Details about the changes made:
 - Appearance was changed to dark style with the color dark purple.
 - Panel mode was deactivated for the dock, icon size was placed at 40, and position was changed to the bottom of the screen.
 - Personal 'home' folder was hidden.
+- Terminal made transparent.
+- Start applications changed so terminal will open automatically upon start up.
