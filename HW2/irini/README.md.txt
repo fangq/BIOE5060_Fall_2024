@@ -6,6 +6,7 @@ Under panel preferences, I modified the settings so that the panel automatically
 Wallpaper
 I uploaded a wallpaper found online to customize the background. The wallpaper has a CC BY-SA (Creative Commons) license which "enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator."
 URL: https://www.xfce-look.org/p/1351495 
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
 
 System Fonts/Theme/Styles
 In the Settings Manager, I changed the system theme to Greybird-dark and changed the system font to Noto Sans Adlam.
