@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "laplace2d_func.h"
 
-void get_input(grid *grid2d, char argc, char **argv) {
+void get_input(grid *grid2d, int argc, char **argv) {
 
 }
 

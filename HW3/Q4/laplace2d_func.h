@@ -13,7 +13,7 @@ typedef struct Grid2D grid;  // grid is a shortcut to struct Grid2D
 
 // get_input uses command params to set
 // grid2d->Nx, grid2d->Ny, grid2d->tol and grid2d->omega
-void get_input(grid *grid2d, char argc, char **argv);
+void get_input(grid *grid2d, int argc, char **argv);
 
 // dynamically allocate the 3D buffer, grid2d->field
 // see how this is done in Unit 2-3’s notebook
